@@ -59,7 +59,7 @@ The dashboard was created to demonstrate an end-to-end analytics workflow — fr
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## How to Use
 1. Review **retail_project.ipynb** to see the data cleaning and preprocessing steps applied to the raw dataset.
