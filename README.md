@@ -5,10 +5,10 @@ This project presents an interactive Power BI dashboard developed to analyze ret
 
 ## Project Files
 - **Retail_Project.pbix** — The Power BI project file containing the full interactive dashboard, data model, and DAX measures.
-- **retail_project.ipynb** — A Jupyter Notebook used for data loading, cleaning, exploration, and preprocessing with Python (pandas, numpy, matplotlib, seaborn).
-- **Retail_and_wherehouse_Sale.xlsx** — The original raw dataset containing retail and warehouse sales records.
-- **cleaned_retail_data.xlsx** — The cleaned and processed version of the dataset, ready for use in Power BI.
-- **Dashboard.png** — A static screenshot preview of the final dashboard.
+- **notebooks/retail_project.ipynb** — A Jupyter Notebook used for data loading, cleaning, exploration, and preprocessing with Python (pandas, numpy, matplotlib, seaborn).
+- **data/Retail_and_wherehouse_Sale.xlsx** — The original raw dataset containing retail and warehouse sales records.
+- **data/cleaned_retail_data.xlsx** — The cleaned and processed version of the dataset, ready for use in Power BI.
+- **screenshots/Dashboard.png** — A static screenshot preview of the final dashboard.
 
 ## Dataset Description
 The dataset contains approximately 30,000 records with the following key fields:
