@@ -57,6 +57,10 @@ Users can slice the data dynamically using the following filter panel options:
 ## Purpose
 The dashboard was created to demonstrate an end-to-end analytics workflow — from raw data cleaning in Python to a fully interactive business intelligence dashboard in Power BI — enabling stakeholders to quickly identify top-performing suppliers, high-demand product categories, and seasonal sales trends.
 
+## 📷 Dashboard Preview
+
+![Dashboard Overview](screenshots/Dashboard.png)
+
 ## How to Use
 1. Review **retail_project.ipynb** to see the data cleaning and preprocessing steps applied to the raw dataset.
 2. Download **Retail_Project.pbix** and open it in Power BI Desktop to explore the interactive dashboard.
